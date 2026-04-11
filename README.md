@@ -1,5 +1,3 @@
-Link - https://campuspulseproject.netlify.app/
-
 # 🚀 CampusPulse – Anonymous Student Feedback Platform
 
 CampusPulse is a Reddit/Quora-inspired anonymous platform that enables students to share honest feedback about campus life while providing administrators with real-time, data-driven insights.
